@@ -14,10 +14,13 @@ Implementation Details:
 Libraries used:
 
 We have used mainly three libraries for making this project. These are given as:
+
 1.Socket:
 Socket library was used to create sockets for both the servers and client. Using the socket library is important for establishing a connection between client and server for communication. File is transferred over this link.
+
 2.Threading:
 Threads are used in this project because we needed to run several tasks at the same time in this project. 
+
 3.Time:
 The time library is important for measuring response time, waiting time, and measuring the efficiency of code.
 
